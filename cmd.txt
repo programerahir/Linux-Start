@@ -1,0 +1,19 @@
+ hostname
+ clear
+ ls
+ pwd
+ cd ..
+ cd usr/
+ cd //home
+ pwd
+ ls -a
+ adduser vishal
+ cat /etc/passwd
+exit
+date
+timedatectl list-timezones
+timedatectl list-timezones | grep -i asia
+timedatectl set-timezone "Asia/Kolkata"
+timedatectl
+history
+
